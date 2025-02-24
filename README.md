@@ -1,4 +1,4 @@
-# Arduino Sonar Visualization Project
+# Arduino Sonar Detector
 
 ![Arduino Sonar Visualization](https://raw.githubusercontent.com/forresttindall/arduino-sonar-visualization/main/images/sonar_demo.gif)
 
